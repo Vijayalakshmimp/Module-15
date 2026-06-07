@@ -34,10 +34,7 @@ print("List of nodes :",list(root))
 ```
 
 ## OUTPUT
-```
 <img width="809" height="147" alt="image" src="https://github.com/user-attachments/assets/519d703b-849c-4503-83f9-a7a0473cac1d" />
-
-```
 
 ## RESULT
 Thus the Python program to build a binary tree with a root, left, and right node using floating-point values has been implemented and executed successfully.
